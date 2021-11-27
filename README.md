@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Avirup 👋
+### I'm a student pursuing B.Tech in Computer Science And Engineering.
 
+
+Here are some ideas to get you started:
+😄 Pronouns: He/Him
 <!--
 **avi-pal/avi-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
