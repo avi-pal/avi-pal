@@ -1,8 +1,7 @@
 ### Hi there, I'm Avirup 👋
 ### I'm a student pursuing B.Tech in Computer Science And Engineering.
 
-
-Here are some ideas to get you started:
+More about me:
 - 🔭 I’m currently working on Front End Development
 - 👯 I’m looking to collaborate on UI/UX design and development
 - 😄 Pronouns: He/Him
