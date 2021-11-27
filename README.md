@@ -3,7 +3,9 @@
 
 
 Here are some ideas to get you started:
-😄 Pronouns: He/Him
+- 🔭 I’m currently working on Front End Development
+- 👯 I’m looking to collaborate on UI/UX design and development
+- 😄 Pronouns: He/Him
 <!--
 **avi-pal/avi-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
