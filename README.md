@@ -3,7 +3,7 @@
 
 More about me:
 - 🔭 I’m currently working on Front End Development
-- 👯 I’m looking to collaborate on flutter development
+- 👯 I’m looking to collaborate on software development
 - 😄 Pronouns: He/Him
 <!--
 **avi-pal/avi-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
